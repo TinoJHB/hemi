@@ -1,0 +1,103 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon4ca8.ttf?5f5c217ed0ce6ba80d9d513972577b7c") format("truetype"),
+url("../fonts/flaticon4ca8.woff?5f5c217ed0ce6ba80d9d513972577b7c") format("woff"),
+url("../fonts/flaticon4ca8.woff2?5f5c217ed0ce6ba80d9d513972577b7c") format("woff2"),
+url("../fonts/flaticon4ca8.eot?5f5c217ed0ce6ba80d9d513972577b7c#iefix") format("embedded-opentype"),
+url("../fonts/flaticon4ca8.svg?5f5c217ed0ce6ba80d9d513972577b7c#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+i {
+    line-height: 1;
+}
+.flaticon-24-hours-support:before {
+    content: "\f101";
+}
+.flaticon-air-conditioner:before {
+    content: "\f102";
+}
+.flaticon-app:before {
+    content: "\f103";
+}
+.flaticon-business-and-trade:before {
+    content: "\f104";
+}
+.flaticon-contact:before {
+    content: "\f105";
+}
+.flaticon-coupons:before {
+    content: "\f106";
+}
+.flaticon-email:before {
+    content: "\f107";
+}
+.flaticon-engineer-1:before {
+    content: "\f108";
+}
+.flaticon-engineer:before {
+    content: "\f109";
+}
+.flaticon-happiness:before {
+    content: "\f10a";
+}
+.flaticon-happy:before {
+    content: "\f10b";
+}
+.flaticon-heating:before {
+    content: "\f10c";
+}
+.flaticon-history:before {
+    content: "\f10d";
+}
+.flaticon-house:before {
+    content: "\f10e";
+}
+.flaticon-message:before {
+    content: "\f10f";
+}
+.flaticon-money-bag:before {
+    content: "\f110";
+}
+.flaticon-office:before {
+    content: "\f111";
+}
+.flaticon-pin:before {
+    content: "\f112";
+}
+.flaticon-quality:before {
+    content: "\f113";
+}
+.flaticon-return-of-investment:before {
+    content: "\f114";
+}
+.flaticon-satisfaction:before {
+    content: "\f115";
+}
+.flaticon-settings:before {
+    content: "\f116";
+}
+.flaticon-snowfall:before {
+    content: "\f117";
+}
+.flaticon-technical-support:before {
+    content: "\f118";
+}
+.flaticon-technician:before {
+    content: "\f119";
+}
+.flaticon-vacuum-cleaner:before {
+    content: "\f11a";
+}
+.flaticon-wrench:before {
+    content: "\f11b";
+}
